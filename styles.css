@@ -1,0 +1,60 @@
+#header1 {
+	height: 100px;
+	width: 30%;
+	float:left;
+	background-color: #F0F8FF;
+	color: green;
+}
+#header2 {
+	height: 100px;
+	width: 40%;
+	float:left;
+	margin: 0; 
+	display: flex; 
+    padding: 0; 
+	background-color: #F0F8FF;
+	color: green;
+}
+#headerh3{
+	margin-left:40px;
+}
+#odstep30{
+    margin-left: 100px;
+}
+#odstep60{
+	margin-left: 200px;
+}
+#body1{
+	height: 500px;
+	width: 60%;
+	float:left;
+	margin: 0; 
+	display: flex; 
+    padding: 0; 
+	background-color: #F0F8FF;
+	color: green;
+}
+#body2{
+	height: 500px;
+	width: 40%;
+	float:left;
+	margin: 0; 
+	display: flex; 
+    padding: 0; 
+	background-color: #F0F8FF;
+	color: green;
+}
+#fotter{
+	height: 100px;
+	width: 100%;
+	float:left;
+	background-color: #F0F8FF;
+	color: green;
+}
+#bodyfull{
+    height: 500px;
+	width: 100%;
+	float:left;
+	background-color:  #F0F8FF;
+	color: green;
+}
