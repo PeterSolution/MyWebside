@@ -23,25 +23,38 @@ const MainContent = () => {
         <b><h4 id="headerh3">Cel</h4></b>
       </div>
       <div id="header1">
-        <h2>Motywacja</h2>
+        <center><h2 id="center50px">Motywacja</h2></center>
         Masz w sobie potencjał, by stać się kimś wyjątkowym – uwierz w siebie i działaj
         <br />
       </div>
 
+      <div id="newsection">
+        <center><h1 >Wiedza</h1></center>
+      </div>
       <div id="bodyfull">
-        <center><h1>Wiedza</h1></center>
-        <br />
-        <b id="headerh3">Programowanie:</b><b id="headerh3">Sieci</b><b id="headerh3">Frameworki</b><br />
-
-        <b id="odstep30">C#</b><b id="odstep30">Przygotowanie do kursu CCNA</b><b id="odstep30">Entity Framework (C#)</b><br />
-        <b id="odstep30">Java</b><b id="odstep30"></b><b id="odstep30">Mapper (C#)</b><br />
-        <b id="odstep30">SQL</b><b id="odstep60">Numpy (python)</b><br />
-        <b id="odstep30">PHP</b><b id="odstep60">pyautogui (python)</b><br />
-        <b id="odstep30">C++</b><b id="odstep60">flask (python)</b><br />
+        <div id="fullsection">
+        <b id="odstep">Programowanie:</b><b id="odstep">Sieci</b><b id="odstep">Frameworki</b><br />
+        </div>
+        <div id="fullsection">
+        <b id="odstep">C#</b><b id="odstep">Przygotowanie do kursu CCNA</b><b id="odstep">Entity Framework (C#)</b><br />
+        </div>
+        
+        <div id="fullsection">
+        <b id="odstep">Java</b><b id="odstep"></b><b id="odstep">Mapper (C#)</b><br />
+        </div>
+        <div id="fullsection">
+        <b id="odstep">SQL</b><b id="odstepD2">Numpy (python)</b><br />
+        </div>
+        <div id="fullsection">
+        <b id="odstep">PHP</b><b id="odstepD2">pyautogui (python)</b><br />
+        </div>
+        <div id="fullsection">
+        <b id="odstep">C++</b><b id="odstepD">flask (python)</b><br />
+        </div>
       </div>
 
 
-      < div id="bodyfull">
+      < div id="bodyfull2">
         <h1>C#</h1>
         <h2>Moja droga z C#</h2><br />
         <h2>C# to mój glólny język programowania gdzie pisałem programy w sieci lan, aplikacje serwerowe typu Rest API oraz aplikacje klienckie
